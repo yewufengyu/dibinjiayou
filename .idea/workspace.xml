@@ -6,57 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09967aa4-98d0-4632-9dc8-ecec9dc5e2a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/common/target/common.jar" afterPath="$PROJECT_DIR$/parant/common/target/common.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-interface/target/content-interface.jar" afterPath="$PROJECT_DIR$/parant/content/content-interface/target/content-interface.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-service/target/content-service.war" afterPath="$PROJECT_DIR$/parant/content/content-service/target/content-service.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-service/target/content-service/WEB-INF/lib/content-interface-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/parant/content/content-service/target/content-service/WEB-INF/lib/content-interface-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-service/target/content-service/WEB-INF/lib/manager-dao-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/parant/content/content-service/target/content-service/WEB-INF/lib/manager-dao-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-service/target/content-service/WEB-INF/lib/manager-pojo-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/parant/content/content-service/target/content-service/WEB-INF/lib/manager-pojo-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-dao/target/manager-dao.jar" afterPath="$PROJECT_DIR$/parant/manager/manager-dao/target/manager-dao.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-interface/target/manager-interface.jar" afterPath="$PROJECT_DIR$/parant/manager/manager-interface/target/manager-interface.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-pojo/target/manager-pojo.jar" afterPath="$PROJECT_DIR$/parant/manager/manager-pojo/target/manager-pojo.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-service/target/manager-service.war" afterPath="$PROJECT_DIR$/parant/manager/manager-service/target/manager-service.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-service/target/manager-service/WEB-INF/lib/common-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/parant/manager/manager-service/target/manager-service/WEB-INF/lib/common-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-service/target/manager-service/WEB-INF/lib/manager-dao-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/parant/manager/manager-service/target/manager-service/WEB-INF/lib/manager-dao-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-service/target/manager-service/WEB-INF/lib/manager-interface-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/parant/manager/manager-service/target/manager-service/WEB-INF/lib/manager-interface-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-service/target/manager-service/WEB-INF/lib/manager-pojo-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/parant/manager/manager-service/target/manager-service/WEB-INF/lib/manager-pojo-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/managerweb/target/manager-web.war" afterPath="$PROJECT_DIR$/parant/manager/managerweb/target/manager-web.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/portalweb/target/portalweb.war" afterPath="$PROJECT_DIR$/parant/portalweb/target/portalweb.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/portalweb/target/portalweb/WEB-INF/lib/common-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/parant/portalweb/target/portalweb/WEB-INF/lib/common-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/portalweb/target/portalweb/WEB-INF/lib/content-interface-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/parant/portalweb/target/portalweb/WEB-INF/lib/content-interface-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/portalweb/target/portalweb/WEB-INF/lib/manager-pojo-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/parant/portalweb/target/portalweb/WEB-INF/lib/manager-pojo-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/parant/common/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/parant/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/parant/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/common/target/surefire-reports/TEST-com.taotao.AppTest.xml" afterPath="$PROJECT_DIR$/parant/common/target/surefire-reports/TEST-com.taotao.AppTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/common/target/surefire-reports/com.taotao.AppTest.txt" afterPath="$PROJECT_DIR$/parant/common/target/surefire-reports/com.taotao.AppTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-interface/src/main/java/com/taotao/App.java" afterPath="$PROJECT_DIR$/parant/content/content-interface/src/main/java/com/taotao/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/parant/content/content-interface/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/parant/content/content-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/parant/content/content-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-interface/target/surefire-reports/TEST-com.taotao.AppTest.xml" afterPath="$PROJECT_DIR$/parant/content/content-interface/target/surefire-reports/TEST-com.taotao.AppTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-interface/target/surefire-reports/com.taotao.AppTest.txt" afterPath="$PROJECT_DIR$/parant/content/content-interface/target/surefire-reports/com.taotao.AppTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/content/content-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/parant/content/content-service/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/parant/manager/manager-dao/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/parant/manager/manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/parant/manager/manager-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-dao/target/surefire-reports/TEST-manager.AppTest.xml" afterPath="$PROJECT_DIR$/parant/manager/manager-dao/target/surefire-reports/TEST-manager.AppTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-dao/target/surefire-reports/manager.AppTest.txt" afterPath="$PROJECT_DIR$/parant/manager/manager-dao/target/surefire-reports/manager.AppTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/parant/manager/manager-interface/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/parant/manager/manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/parant/manager/manager-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-interface/target/surefire-reports/TEST-manager.AppTest.xml" afterPath="$PROJECT_DIR$/parant/manager/manager-interface/target/surefire-reports/TEST-manager.AppTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-pojo/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/parant/manager/manager-pojo/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/parant/manager/manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/parant/manager/manager-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-pojo/target/surefire-reports/TEST-manager.AppTest.xml" afterPath="$PROJECT_DIR$/parant/manager/manager-pojo/target/surefire-reports/TEST-manager.AppTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/manager-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/parant/manager/manager-service/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/manager/managerweb/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/parant/manager/managerweb/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parant/portalweb/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/parant/portalweb/target/maven-archiver/pom.properties" />
-    </list>
+    <list default="true" id="09967aa4-98d0-4632-9dc8-ecec9dc5e2a0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/parant/target/" />
     <ignored path="$PROJECT_DIR$/common/target/" />
     <ignored path="$PROJECT_DIR$/manager/target/" />
@@ -552,7 +502,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -562,7 +511,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3991228" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
