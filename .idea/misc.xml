@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/parant/content/content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/parant/manager/manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/parant/manager/managerweb" />
+    <file type="web" url="file://$PROJECT_DIR$/parant/portalweb" />
+    <file type="web" url="file://$PROJECT_DIR$/parant/portalweb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/parant/pom.xml" />
+        <option value="$PROJECT_DIR$/manager/manager-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/manager/manager-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/manager/manager-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/manager/manager-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/content/content-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/content/content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/content/pom.xml" />
+        <option value="$PROJECT_DIR$/parant/portalweb/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

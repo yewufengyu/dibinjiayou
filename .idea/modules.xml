@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parant/common/common.iml" filepath="$PROJECT_DIR$/parant/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parant/content/content.iml" filepath="$PROJECT_DIR$/parant/content/content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parant/content/content-interface/content-interface.iml" filepath="$PROJECT_DIR$/parant/content/content-interface/content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parant/content/content-service/content-service.iml" filepath="$PROJECT_DIR$/parant/content/content-service/content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parant/manager/manager.iml" filepath="$PROJECT_DIR$/parant/manager/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parant/manager/manager-dao/manager-dao.iml" filepath="$PROJECT_DIR$/parant/manager/manager-dao/manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parant/manager/manager-interface/manager-interface.iml" filepath="$PROJECT_DIR$/parant/manager/manager-interface/manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parant/manager/manager-pojo/manager-pojo.iml" filepath="$PROJECT_DIR$/parant/manager/manager-pojo/manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parant/manager/manager-service/manager-service.iml" filepath="$PROJECT_DIR$/parant/manager/manager-service/manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parant/manager/managerweb/managerweb.iml" filepath="$PROJECT_DIR$/parant/manager/managerweb/managerweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parant/parant.iml" filepath="$PROJECT_DIR$/parant/parant.iml" />
+    </modules>
+  </component>
+</project>

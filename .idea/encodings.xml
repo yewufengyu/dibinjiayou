@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/parant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parant/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parant/content" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parant/content/content-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parant/content/content-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parant/manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parant/manager/manager-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parant/manager/manager-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parant/manager/manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parant/manager/manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parant/manager/managerweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parant/portalweb" charset="UTF-8" />
+  </component>
+</project>
